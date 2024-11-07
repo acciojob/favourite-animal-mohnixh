@@ -1,2 +1,5 @@
 
-/* Your CSS Code here. */
+.animal-image {
+  width: 300px;
+  height: auto;
+}
